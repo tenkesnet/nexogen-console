@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "NexogenConsole/1.0.0": {
+        "dependencies": {
+          "NexogenLogger": "1.0.0"
+        },
+        "runtime": {
+          "NexogenConsole.dll": {}
+        }
+      },
+      "NexogenLogger/1.0.0": {
+        "runtime": {
+          "NexogenLogger.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NexogenConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NexogenLogger/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

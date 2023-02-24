@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Nexogen\NexogenLogger\bin\Debug\net6.0\NexogenLogger.deps.json
+C:\Users\User\source\repos\Nexogen\NexogenLogger\bin\Debug\net6.0\NexogenLogger.dll
+C:\Users\User\source\repos\Nexogen\NexogenLogger\bin\Debug\net6.0\NexogenLogger.pdb
+C:\Users\User\source\repos\Nexogen\NexogenLogger\obj\Debug\net6.0\NexogenLogger.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Nexogen\NexogenLogger\obj\Debug\net6.0\NexogenLogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Nexogen\NexogenLogger\obj\Debug\net6.0\NexogenLogger.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Nexogen\NexogenLogger\obj\Debug\net6.0\NexogenLogger.AssemblyInfo.cs
+C:\Users\User\source\repos\Nexogen\NexogenLogger\obj\Debug\net6.0\NexogenLogger.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Nexogen\NexogenLogger\obj\Debug\net6.0\NexogenLogger.dll
+C:\Users\User\source\repos\Nexogen\NexogenLogger\obj\Debug\net6.0\refint\NexogenLogger.dll
+C:\Users\User\source\repos\Nexogen\NexogenLogger\obj\Debug\net6.0\NexogenLogger.pdb
+C:\Users\User\source\repos\Nexogen\NexogenLogger\obj\Debug\net6.0\ref\NexogenLogger.dll
