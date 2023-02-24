@@ -8,10 +8,18 @@ The Logger class has 3 types of constructors:
 
 #### Logger(String Path) - log to file. If Path is empy, logging to working directory
 Exceptions:
--ArgumentNullException
+- ArgumentNullException
 ### Logger(Stream Stream - log to Stream
 Exceptions:
--ArgumentNullException
+- ArgumentNullException
+
+## Logging methods:
+
+- debug(string message)
+- info(string message)
+- error(string message)
+
+
 
 
 
