@@ -19,7 +19,7 @@ Exceptions:
 - info(string message)
 - error(string message)
 
-
+All three Logs throw a LogMessage Exception if the Log message is longer than 1000 characters.
 
 
 
