@@ -19,5 +19,5 @@ catch (LongLogMessageException e)
     logger?.error(e.Message);
 }
 
-Console.WriteLine("Please press the <Entery>.")
+Console.WriteLine("Please press the <Entery>.");
 Console.ReadLine();
